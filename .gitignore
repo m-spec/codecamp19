@@ -24,4 +24,4 @@ yarn-error.log*
 /dist_electron
 
 #Saved images
-/frames
+/images
